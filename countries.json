@@ -1,18 +1,14 @@
 [
     [
-        "netherlands.json", 
-        "netherlands_cards.png"
-    ],
-    [
-        "england.json", 
-        "england_cards.png"
-    ],
-    [
-        "france.json", 
-        "france_cards.png"
-    ],
-    [
         "usa.json",
         "usa_cards.png"
+    ],
+    [
+        "usa2.json",
+        "usa_cards2.png"
+    ],
+    [
+        "usa3.json",
+        "usa_cards3.png"
     ]
 ]

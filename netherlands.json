@@ -3,13 +3,13 @@
         "country": "0",
         "points": "1",
         "action": "5",
-        "description": "Draw two cards"
+        "description": "Opponent skips a turn"
     },
     {
         "country": "0",
         "points": "1",
         "action": "1",
-        "description": "Destroy one point card"
+        "description": "Opponent skips a turn"
     },
     {
         "country": "0",
