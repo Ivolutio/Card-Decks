@@ -4,7 +4,11 @@
         "england_cards.png"
     ],
     [
-        "usa.json",
-        "usa_cards.png"
+        "england.json",
+        "england_cards.png"
+    ],
+    [
+        "england.json",
+        "england_cards.png"
     ]
 ]
