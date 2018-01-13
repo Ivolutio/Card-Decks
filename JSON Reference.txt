@@ -1,0 +1,22 @@
+Countries:
+0 = The Netherlands
+1 = Germany
+2 = England
+3 = France
+4 = Bulgaria
+5 = USA
+6 = Mexico
+7 = China
+
+Actions:
+0 = Homecoming
+1 = Destroy one point card.
+2 = Protect one point card.
+3 = Another player skips a turn.
+4 = Steal a card from a player's hand.
+5 = Draw two cards.
+6 = 
+7 = 
+8 = 
+9 =  
+10 = 
