@@ -10,5 +10,9 @@
     [
         "germany.json",
         "germany_cards.png"
+    ],
+    [
+        "usa.json",
+        "usa_cards.png"
     ]
 ]
