@@ -3,25 +3,7 @@
         "country": "0",
         "points": "1",
         "action": "5",
-        "description": "Opponent skips a turn"
-    },
-    {
-        "country": "0",
-        "points": "1",
-        "action": "1",
-        "description": "Opponent skips a turn"
-    },
-    {
-        "country": "0",
-        "points": "1",
-        "action": "2",
-        "description": "Protect one point card"
-    },
-    {
-        "country": "0",
-        "points": "1",
-        "action": "3",
-        "description": "Other player skips a turn"
+        "description": "Draw two cards"
     },
     {
         "country": "0",
@@ -32,8 +14,8 @@
     {
         "country": "0",
         "points": "1",
-        "action": "5",
-        "description": "Draw two cards"
+        "action": "3",
+        "description": "Oppenent skips a turn"
     },
     {
         "country": "0",
@@ -49,14 +31,32 @@
     },
     {
         "country": "0",
-        "points": "1",
+        "points": "2",
         "action": "3",
-        "description": "Other player skips a turn"
+        "description": "Opponent skips a turn"
     },
     {
         "country": "0",
-        "points": "1",
-        "action": "4",
-        "description": "Steal a card"
+        "points": "2",
+        "action": "2",
+        "description": "Protect one point card"
+    },
+    {
+        "country": "0",
+        "points": "2",
+        "action": "3",
+        "description": "Opponent skips a turn"
+    },
+    {
+        "country": "0",
+        "points": "3",
+        "action": "1",
+        "description": "Destroy one point card"
+    },
+    {
+        "country": "0",
+        "points": "0",
+        "action": "0",
+        "description": "Homecoming"
     }
 ]
